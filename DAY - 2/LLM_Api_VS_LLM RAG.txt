@@ -1,0 +1,29 @@
+Real Example: Assume a Legal Doc Controlling Company
+Company: Legal tech startup helping lawyers review contracts
+
+Metric	Value
+Documents	50,000 contracts
+Daily queries	10,000 (from 100 lawyers)
+Tokens per query	2,000 (with RAG)
+GPT-4 API:
+
+10,000 queries × 2,000 tokens = 20M tokens/day
+
+20M tokens × $0.03/1K = $600/day
+
+Monthly = $18,000
+
+Llama 3 (8B) + RAG:
+
+One GPU server: $2,000/month
+
+Electricity: $100/month
+
+Monthly = $2,100
+
+Annual savings: $190,800
+
+That's why they switched. That's why RAG + open source matters.
+
+Your One-Sentence Summary
+*"APIs are cheap to start, but open source + RAG is cheaper at scale 

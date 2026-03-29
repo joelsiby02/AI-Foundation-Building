@@ -1,6 +1,6 @@
 # FILE: day1_embeddings.py
 # PURPOSE: Learn what embeddings are by building and comparing them
-# AUTHOR: Jo
+# AUTHOR: Joel Siby
 # DATE: 28 / 03 / 2026
 
 # import deps 
